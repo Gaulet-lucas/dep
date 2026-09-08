@@ -1,2 +1,10 @@
-test
-test
+1:Git est l'outil local de gestion de versions GitHub est la plateforme en ligne qui héberge et facilite le travail collaboratif autour de Git.
+2:Un repository est un dossier de projet suivi par Git contenant les fichiers et tout leur historique de modifications.
+3:Un commit enregistre une version du projet en local un push l'envoie vers le repository distant, et un pull récupère les changements distants vers le local.
+4:C'est le fichier de présentation du projet (description, installation, usage) affiché automatiquement sur la page d'accueil du repository GitHub.
+5:On utilise la commande (git clone <URL>) pour copier localement un repository et tout son historique.
+6:Un OS est le logiciel de base qui gère les ressources matérielles et permet aux programmes de s'exécuter.
+7:Windows, Unix/Linux et macOS sont les trois grandes familles d'OS.
+8:Linux est en réalité un noyau et l'ensemble des distributions qui l'utilisent forme une famille d'OS.
+9:Ubuntu Debian Fedora et Linux Mint sont quatre distributions basées sur le noyau Linux.
+10:Les OS Linux sont open source et gratuits contrairement aux OS propriétaires comme Windows ou macOS.
